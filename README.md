@@ -1,0 +1,2 @@
+# awayhand
+Utilitário pro lol
